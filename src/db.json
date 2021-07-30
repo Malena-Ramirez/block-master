@@ -1,0 +1,195 @@
+{ 
+    "banner":[
+        {
+            "title": "Mulan",
+            "director":"Niki Caro",
+            "premier":"4 de septiembre de 2020",
+            "gender": "Action-Adventure",
+            "classification":"RATED PG-13",
+            "description": "Narra la historia de Mulán, una intrépida joven lo arriesga todo por amor a su familia y a su país hasta convertirse en una de las mayores guerreras de la historia de China. Cuando el emperador de China decreta que un hombre de cada familia debe servir en el Ejército Imperial para defender al país de los invasores del norte, Hua Mulán, la hija mayor de un condecorado guerrero, decide ocupar el lugar de su padre enfermo. Haciéndose pasar por un hombre, Hua Jun, se enfrenta a constantes desafíos y deberá aprender a canalizar su fuerza interior y a aceptar su verdadero potencial. Un viaje épico que la convertirá en una reconocida guerrera y le permitirá ganarse el respeto de una nación agradecida... y de un padre orgulloso. Remake del clásico de Disney. ",
+            "img": "https://i.imgur.com/gxyWIWg.png"
+        },
+        {
+            "title": "Unidos",
+            "director":"Dan Scanlon",
+            "premier":"6 de marzo de 2020",
+            "gender": "Fantasía urbana Animación",
+            "classification":"Para todo publico",
+            "description": "Dos hermanos elfos adolescentes, Ian y Barley, hacen un viaje en busca de un poco de magia para pasar un último día con su padre fallecido, pero cuando su madre se entera de que no están, se une a la legendaria mantícora para traerlos de regreso.",
+            "img": "https://i.imgur.com/tHo7KLH.png"
+        },
+        {
+            "title": "Raya y el último dragón",
+            "director":"Don Hall",
+            "premier":"5 de marzo de 2021",
+            "gender": "Animación Aventura Fantasia Comedia",
+            "classification":"Para todo el público",
+            "description": "“Raya y el último dragón”, de Walt Disney Animation Studios, viaja al mundo de fantasía de Kumandra, donde humanos y dragones vivieron juntos en armonía hace mucho tiempo. Pero cuando una fuerza maligna amenazó la tierra, los dragones se sacrificaron para salvar a la humanidad. Ahora, 500 años después, esta misma fuerza ha regresado y una guerrera solitaria, Raya, tiene que encontrar al legendario último dragón para recomponer la tierra fracturada y a sus pueblos divididos. Sin embargo, a lo largo del camino, Raya descubrirá que necesitará algo más que un dragón para salvar el mundo, necesitará confianza y trabajo en equipo. Las protagonistas de Raya y el último dragón son Raya, una guerrera con un ingenio tan afilado como su espada, y Sisu, una mágica, mítica y modesta dragona. A su aventura se unirán un espabilado empresario de diez años de nombre Boun, el formidable gigante Tong y Noi, una bebé ladrona y su banda de Ongis.",
+            "img": "https://i.imgur.com/6yZ0hND.png"
+        }
+    ],
+    "movies":[
+        {
+            "title": "Hard Kill",
+            "director":"Matt Eskandari",
+            "premier":"21 de agosto de 2020",
+            "gender": "Acción. Thriller",
+            "classification":"R",
+            "description": "Rogue es la historia de una pequeña unidad mercenaria de soldados que han sido contratados por el gobernador de un país africano para rescatar a su hija que ha sido secuestrada por una organización terrorista.",
+            "img": "https://i.imgur.com/36m0DRf.png"
+        },
+        {
+            "title": "Rogue",
+            "director":"M.J. Bassett",
+            "premier":"3 de septiembre de 2020",
+            "gender": "Acción Secuestros Desapariciones",
+            "classification":"R",
+            "description": "Una pequeña unidad mercenaria de soldados es contratada por el gobernador de un país africano para rescatar a su hija, que ha sido secuestrada por una organización terrorista.",
+            "img": "https://i.imgur.com/bzsUbz1.png"
+        },
+        {
+            "title": "Santana",
+            "director":"Maradona Dias Dos Santos, Chris Roland",
+            "premier":"15 de mayo de 2020",
+            "gender": "Acción, crímenes y drama",
+            "classification":"R",
+            "description": "Dos hermanos, un agente de narcóticos y un general, descubren por fin la identidad del criminal que asesinó a sus padres hace décadas.",
+            "img": "https://i.imgur.com/RxPRADR.png"
+        },
+        {
+            "title": "Orígenes secretos",
+            "director":"David Galán Galindo",
+            "premier":"28 de agosto de 2020",
+            "gender": "Ciencia ficción",
+            "classification":"16+",
+            "description": "Madrid, 2019. Un asesino en serie crea el caos. Gente desconocida sin conexión aparente está siendo asesinada es escenas que imitan las apariciones de los primeros superhéroes.",
+            "img": "https://i.imgur.com/eAhqgby.png"
+        },
+        {
+            "title": "Proyecto Power",
+            "director":" Henry Joost, Ariel Schulman",
+            "premier":"14 de agosto de 2020",
+            "gender": "Ciencia ficción Acción y aventuras",
+            "classification":"16+",
+            "description": "En las calles de Nueva Orleans, se empieza a correr la voz sobre una misteriosa nueva píldora que desbloquea superpoderes únicos para cada usuario. La trampa: no sabes cómo te afectará hasta que la tomes. Mientras que algunos desarrollan una piel a prueba de balas, invisibilidad y una fuerza sobrenatural, otros exhiben una reacción más mortal. Pero cuando la píldora eleva el crimen dentro de la ciudad a niveles peligrosos, un policía local (Joseph Gordon-Levitt) se une a un traficante adolescente (Dominique Fishback) y a un ex soldado alimentado por una venganza secreta (Jamie Foxx) para luchar contra el poder con poder y arriesgarse a tomar la píldora con el fin de localizar y detener al grupo responsable de crearla.",
+            "img": "https://i.imgur.com/ZIX7lso.png"
+        },
+        {   
+            "title": "Proyecto Power",
+            "director":" Henry Joost, Ariel Schulman",
+            "premier":"14 de agosto de 2020",
+            "gender": "Ciencia ficción Acción y aventuras",
+            "classification":"16+",
+            "description": "En las calles de Nueva Orleans, se empieza a correr la voz sobre una misteriosa nueva píldora que desbloquea superpoderes únicos para cada usuario. La trampa: no sabes cómo te afectará hasta que la tomes. Mientras que algunos desarrollan una piel a prueba de balas, invisibilidad y una fuerza sobrenatural, otros exhiben una reacción más mortal. Pero cuando la píldora eleva el crimen dentro de la ciudad a niveles peligrosos, un policía local (Joseph Gordon-Levitt) se une a un traficante adolescente (Dominique Fishback) y a un ex soldado alimentado por una venganza secreta (Jamie Foxx) para luchar contra el poder con poder y arriesgarse a tomar la píldora con el fin de localizar y detener al grupo responsable de crearla.",
+            "img": "https://i.imgur.com/ZIX7lso.png"
+        },
+        {
+            "title": "Ava",
+            "director":"Tate Taylor",
+            "premier":"julio de 2020",
+            "gender": "Acción Drama Crimen",
+            "classification":"16+",
+            "description": "Una asesina trabaja para una organización de operaciones secretas. Luego de que un peligroso encargo sale mal, Ava se ve obligada a luchar por su propia vida.",
+            "img": "https://i.imgur.com/vSVR0Pg.png"
+        },
+        {
+            "title": "Infamous",
+            "director":"Joshua Caldwell",
+            "premier":"12 de junio de 2020",
+            "gender": "Acción Robos & Atracos",
+            "classification":"16+",
+            "description": "Arielle nació en un pueblo pequeño, pero sueña con ser famosa. Tras conocer a Dean, un delincuente, la pareja empieza a asaltar negocios y presumir de sus fechorías en las redes sociales, en busca de una notoriedad manchada de sangre.",
+            "img": "https://i.imgur.com/Ean6gMh.png"
+        },
+        {   
+            "title": "Mundo doble",
+            "director":"Teddy Chan",
+            "premier":"27 de diciembre de 2019",
+            "gender": "Acción. Aventuras. Fantástico",
+            "classification":"16+",
+            "description": "Con la esperanza de honrar a su clan, un joven aldeano se embarca en un peligroso viaje para competir en un torneo que selecciona guerreros para la batalla.",
+            "img": "https://i.imgur.com/64QpBmn.png"
+        },
+        {
+            "title": "Mundo doble",
+            "director":"Teddy Chan",
+            "premier":"27 de diciembre de 2019",
+            "gender": "Acción. Aventuras. Fantástico",
+            "classification":"16+",
+            "description": "Con la esperanza de honrar a su clan, un joven aldeano se embarca en un peligroso viaje para competir en un torneo que selecciona guerreros para la batalla.",
+            "img": "https://i.imgur.com/64QpBmn.png"
+        },
+        {
+            "title": "Bill & Ted Face the Music",
+            "director":"Dean Parisot",
+            "premier":"1 de septiembre de 2020",
+            "gender": "Comedia Aventura Ciencia ficción",
+            "classification":"13+",
+            "description": "Dos aspirantes a estrellas de rock se ven en sus 40, padres de familia, todavía intentando escribir la canción que les permita cumplir con su destino.",
+            "img": "https://i.imgur.com/uYYLUwD.png"
+        },
+        {
+            "title": "Legacy Of Lies",
+            "director":"Adrian Bol",
+            "premier":"6 de agosto de 2020",
+            "gender": "Acción/Suspenso",
+            "classification":"18+",
+            "description": "Un ex agente del MI6 es devuelto al mundo del espionaje y de las grandes apuestas para descubrir la impactante verdad sobre las operaciones realizadas por servicios secretos desconocidos.",
+            "img": "https://i.imgur.com/fBV1cdd.png"
+        },
+        {
+            "title": "Artemis Fowl: el mundo subterráneo",
+            "director":"Kenneth Branagh",
+            "premier":"12 de junio de 2020",
+            "gender": "Ciencia ficción fantástica, aventuras y acción",
+            "classification":"Para todo el público",
+            "description": "En la costa de Irlanda , un frenesí mediático desciende sobre Fowl Manor, donde una colección robada de reliquias de fama mundial está vinculada al rico empresario Artemis Fowl. Detenido en la mansión, Mulch Diggums es interrogado por la inteligencia británica y afirma que su empleador ha robado el poderoso Aculos. Ofreciendo a probar la existencia de la magia, Mandíbulas cuenta la historia de Artemis Fowl, Jr .",
+            "img": "https://i.imgur.com/yCreunm.png"
+        },
+        {
+            "title": "Moneda de Cambio",
+            "director":"Brian Skiba",
+            "premier":"1 de octubre de 2020",
+            "gender": "Acción",
+            "classification":"No clasificado",
+            "description": "Vic Davis es un agente secreto que se dirige a recoger a su hijo cuando se ve envuelto por accidente en medio de una operación terrorista. Una amiga de su hijo, Eric Walton, es el objetivo de la célula que ha lanzado el ataque y que no se detendrá hasta que la pueda secuestrar para utilizarla como moneda de cambio en un juicio.",
+            "img": "https://i.imgur.com/mEUkjPP.png"
+        },
+        {
+            "title": "Fuego negro (Dark Forces)",
+            "director":"Bernardo Arellano",
+            "premier":"21 de agosto de 2020",
+            "gender": "Cine negro",
+            "classification":"16+",
+            "description": "En la búsqueda de su hermana, un peligroso criminal encuentra respuestas en un sórdido hotel con extraños personajes.",
+            "img": "https://i.imgur.com/aaHg6Wn.png"
+        },
+        {
+            "title": "The Tax Collector",
+            "director":"David Ayer",
+            "premier":"30 de julio de 2020",
+            "gender": "Acción/Crimen",
+            "classification":"18+",
+            "description": "David Cuevas y Creeper recorren Los Ángeles recaudando el dinero que extorsiona una banda de mafiosos. La irrupción de un antiguo enemigo pondrá en peligro todo aquello que David ama.",
+            "img": "https://i.imgur.com/ikByIZP.png"
+        },
+        {
+            "title": "Cazador De Silencio",
+            "director":"Robin Pront",
+            "premier":"1 de octubre de 2020",
+            "gender": "Thriller. Acción | Venganza. Familia. Crimen",
+            "classification":"16+",
+            "description": "Un cazador reformado (Nikolaj Coster-Waldau) que vive separado de la sociedad en un paraje natural perdido entre la maleza se ve inmerso en el juego del gato y el ratón cuando el Sheriff local se decide a capturar al asesino de su hija (Wallis).",
+            "img": "https://i.imgur.com/Fr4URUA.png"
+        },
+        {
+            "title": "Archive",
+            "director":"Gavin Rothery",
+            "premier":"10 de julio de 2020",
+            "gender": "Ciencia ficción",
+            "classification":"16+",
+            "description": "Año 2038: George Almore trabaja en una inteligencia artificial que parezca verdaderamente humana. Su último prototipo ya está en su fase más delicada y arriesgada, en especial, porque el objetivo de Almore debe permanecer oculto a cualquier precio: reunirse con su mujer fallecida.",
+            "img": "https://i.imgur.com/Q5QfZXr.png"
+        }
+    ]
+}
