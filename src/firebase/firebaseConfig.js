@@ -3,14 +3,13 @@ import 'firebase/firestore'
 import 'firebase/auth'
 
 var firebaseConfig = {
-    apiKey: "AIzaSyDPidtTS8Z_OQpMa93168EflqcF7u3HNM0",
-    authDomain: "block-master-grl.firebaseapp.com",
-    projectId: "block-master-grl",
-    storageBucket: "block-master-grl.appspot.com",
-    messagingSenderId: "562306155793",
-    appId: "1:562306155793:web:bccd96cd0352dbe0a2f8b0",
-    measurementId: "G-ZD1NZRQ583"
-  };
+  apiKey: "AIzaSyDrpQjcPodV68klSBoG4JmMSJn80HTwLcQ",
+  authDomain: "app-fb-crud-2c1a6.firebaseapp.com",
+  projectId: "app-fb-crud-2c1a6",
+  storageBucket: "app-fb-crud-2c1a6.appspot.com",
+  messagingSenderId: "721519056345",
+  appId: "1:721519056345:web:90675e2959b69c9c5335c8"
+};
 
 //inicializando firebase
 firebase.initializeApp(firebaseConfig);
@@ -20,8 +19,8 @@ const db = firebase.firestore();
 //para permitir  autenticacion con google
 const google = new firebase.auth.GoogleAuthProvider();
 
-export{
-    db,
-    google,
-    firebase
+export {
+  db,
+  google,
+  firebase
 }

@@ -35,11 +35,16 @@ const FormCrud = () => {
   };
 
   return (
-    <Container className='mt-3'>
-      <h1 className='text-center h2 mb-4'>Registrar películas</h1>
-      <Container>
+    <Container className='my-4' fluid>
+      <Container fluid>
         <Row>
-          <Col xs={12} md={8} className='mx-auto'>
+          <Col
+            xs={12}
+            md={3}
+            className='mx-auto p-4 bg-light border border-warning border-5 rounded'
+            style={{ height: 'min-content' }}
+          >
+            <h1 className='text-center h2 mb-4'>Registrar películas</h1>
             <Form onSubmit={handleRegister}>
               <Form.Group className='mb-3' controlId='formBasicId'>
                 <Form.Label>Id</Form.Label>
@@ -73,7 +78,7 @@ const FormCrud = () => {
                 />
               </Form.Group>
               <Form.Group className='mb-3' controlId='formBasicOverview'>
-                <Form.Label>Reseña</Form.Label>
+                <Form.Label>Resumen</Form.Label>
                 <Form.Control
                   type='text'
                   name='overview'
@@ -83,9 +88,9 @@ const FormCrud = () => {
                 />
               </Form.Group>
               <Form.Group className='mb-3' controlId='formBasicImage'>
-                <Form.Label>Imagen</Form.Label>
+                <Form.Label>URL de la imagen</Form.Label>
                 <Form.Control
-                  type='file'
+                  type='text'
                   name='image'
                   value={image}
                   onChange={handleInputChange}
@@ -93,14 +98,16 @@ const FormCrud = () => {
                 />
               </Form.Group>
               <div className='d-flex justify-content-center'>
-                <Button size='lg' variant='info' type='submit'>
+                <Button size='lg' variant='warning' type='submit'>
                   Guardar
                 </Button>
               </div>
             </Form>
           </Col>
+          <Col xs={12} md={8}>
+            <CrudMovies />
+          </Col>
         </Row>
-        <CrudMovies />
       </Container>
     </Container>
   );

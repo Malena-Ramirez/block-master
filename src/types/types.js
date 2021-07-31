@@ -4,5 +4,7 @@ export const types = {
     logout: 'logout',
     setMovies: 'set-movies',
     register: 'register',
-    Listar: 'listar'
+    Listar: 'listar',
+    movieUpdate: 'movieUpdate',
+    movieDelete: 'movieUpdate'
 }

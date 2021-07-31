@@ -30,9 +30,21 @@ const NavbarBM = () => {
             <LessValued />
           </Nav.Link>
           <Nav.Link to='/'>
+            <LessValued />
+          </Nav.Link>
+          <Nav.Link>
+            <Link
+              to='/form'
+              className='text-warning'
+              style={{ textDecoration: 'none' }}
+            >
+              Películas añadidas
+            </Link>
+          </Nav.Link>
+          <Nav.Link to='/'>
             <Search />
           </Nav.Link>
-          <Dropdown>
+          {/* <Dropdown>
             <Dropdown.Toggle
               variant='dark'
               id='dropdown-basic'
@@ -42,7 +54,7 @@ const NavbarBM = () => {
                 <Link to='/form'>Añadir película</Link>
               </Dropdown.Item>
             </Dropdown.Menu>
-          </Dropdown>
+          </Dropdown> */}
         </Nav>
       </Container>
     </Navbar>
