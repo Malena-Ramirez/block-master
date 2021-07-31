@@ -5,7 +5,6 @@ import { useSelector } from 'react-redux';
 const CrudMovies = () => {
   const [movies, setMovies] = useState([]);
   const pelicula = useSelector((store) => store.registerMovies.pelicula);
-  console.log('pelicula', pelicula);
   useEffect(() => {
     setMovies(pelicula);
   }, [pelicula]);

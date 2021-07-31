@@ -6,5 +6,6 @@ export const types = {
     register: 'register',
     Listar: 'listar',
     movieUpdate: 'movieUpdate',
-    movieDelete: 'movieUpdate'
+    movieDelete: 'movieUpdate',
+    listarBusqueda: 'listarBusqueda'
 }
